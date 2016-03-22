@@ -11,7 +11,7 @@ description: Where I vent on my journey to mastering sales.
 # Then, the 'url' is: http://yourname.github.io
 # If your project is placed in another repository as a gh-pages branch, like: https://github.com/yourname/projectname
 # Then, the 'url' is: http://yourname.github.io/projectname
-# url: http://noahjohn.us/sales-blog
+url: http://noahjohn.us/sales-blog
 
 #
 ###################################
@@ -41,7 +41,7 @@ owner:
   bio: "Learning the zen/voodoo/art of sales."
   email: noah@autoscores.com
   disqus-shortname:
-  twitter: #username
+  twitter: noahajohn
   facebook: #username
   google:
     plus: #username
@@ -52,7 +52,7 @@ owner:
   bing-verify:
   github: noahajohn
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: noahajohn
   xing: #username
   instagram: noahajohn
   lastfm: #username
